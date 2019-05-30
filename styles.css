@@ -1,0 +1,15 @@
+#title {
+    text-align: center;
+}
+#square {
+    text-align: center;
+    width: 400pt;
+    height: 400pt;
+    margin: 0 auto;
+    border: solid;
+    text-align: center;
+}
+#changeColorDiv {
+    text-align: center;
+    margin: auto;
+}
